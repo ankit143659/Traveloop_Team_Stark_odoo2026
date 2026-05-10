@@ -23,7 +23,7 @@ Traveloop is a comprehensive travel planning application built for modern travel
   ![Plan Trip](./plan_trip_page.png)
   
   ### 🤖 AI-Powered Suggestions
-  ![AI Planning](./planning_AI.png)
+  ![AI Planning](./planning_Ai.png)
   
   ### 💰 Budget Tracking
   ![Budget](./budget_page.png)
