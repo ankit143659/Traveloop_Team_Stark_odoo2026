@@ -79,7 +79,7 @@ Users → Trips → Stops → Activities
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/traveloop.git
+git clone https://github.com/ankit143659/Traveloop_Team_Stark_odoo2026
 
 # Navigate to project
 cd traveloop
